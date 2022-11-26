@@ -1,1 +1,3 @@
-pora pukka
+Hello world 
+
+I am learning Django sessions
